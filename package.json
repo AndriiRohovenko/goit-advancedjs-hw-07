@@ -6,7 +6,9 @@
   "author": "",
   "scripts": {
     "task_1": "tsc && node dist/1.js",
-    "task_2": "tsc && node dist/2.js"
+    "task_2": "tsc && node dist/2.js",
+    "task_3": "tsc && node dist/3.js",
+    "task_4": "tsc && node dist/4.js"
   },
   "license": "ISC",
   "dependencies": {
